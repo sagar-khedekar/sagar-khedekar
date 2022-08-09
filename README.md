@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sagar-khedekar 
+- 👋 Hi, I’m Sagar Khedekar 
 - 🌱 I’m currently learning java
 <!---
 sagar-khedekar/sagar-khedekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
